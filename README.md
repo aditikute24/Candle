@@ -6,13 +6,6 @@ Welcome to the **Candle Website**! This is a simple and visually appealing web p
 
 You can view the live project here: [Candle Website](https://aditikute24.github.io/Candle/)
 
-## Technologies Used
-
-- **HTML5**: For structuring the content of the web page.
-- **CSS3**: For styling the page and creating the candle and its flame animation.
-- **JavaScript**: For adding dynamic elements and interactivity.
-- **GitHub Pages**: Hosting the project.
-
 ## Getting Started
 
 To view or modify the project, follow these steps:
